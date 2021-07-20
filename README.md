@@ -1,3 +1,4 @@
 # Workshop_ExpBU_2021
 
-Welcome to the research project
+Welcome to research project
+[my data](data.txt) | [my_code](analyze.py)
